@@ -1,5 +1,5 @@
 # exexL
 
-tablepereput - глагол "перепутать";
-tablesput - глагол "спутать";
-tableperesput - глаголы "перепутать" и "спутать";
+tablepereput1.xlsx - глагол "перепутать";
+tablesput1.xlsx - глагол "спутать";
+tableperesput1.xlsx - глаголы "перепутать" и "спутать";
